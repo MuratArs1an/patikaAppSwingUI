@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class:              <dependency>                 <groupId>org.postg
+ resql</groupId>                 <artifactId>postgresql</artifactId>    
+              <version>42.6.0</version>             </dependency>       
+   
+
